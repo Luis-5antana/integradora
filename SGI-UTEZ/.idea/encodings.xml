@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_Hist_Pres.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_Perfil.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_Pres_Act.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_consDisp.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_consMale.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_conusua.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_modDisp.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_modMale.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_modUsu.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_regDisp.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_regDisp1.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_regMale.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_regPres.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_regPres1.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/AD_regUsu.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/UE_Hist_Pres.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/UE_Pres_Act.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/UE_consDisp.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/UE_consMale.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/UE_consUsu.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/UE_perfil.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/UE_regPres.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/index.jsp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/validarfunciona.js" charset="ISO-8859-1" />
+  </component>
+</project>

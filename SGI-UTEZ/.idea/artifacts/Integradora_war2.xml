@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Integradora:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Integradora_war2</output-path>
+    <root id="archive" name="Integradora_war.war">
+      <element id="artifact" artifact-name="Integradora:war exploded" />
+    </root>
+  </artifact>
+</component>
